@@ -49,7 +49,6 @@ export default function Home() {
                 showsVerticalScrollIndicator={false}
                 renderItem={ ({ item }) => <Movements data={item} /> }
             />
-
         </View>
     );
 }
