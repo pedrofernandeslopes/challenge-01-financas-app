@@ -9,23 +9,23 @@ import Actions from '../../components/Actions';
 const list = [
     {
         id: 1,
-        label: 'Boleto conta luz',
-        value: '300,90',
+        label: 'Conta de luz',
+        value: '223,78',
         date: '20/09/2023',
         type: 0, // despesas
     },
     {
         id: 2,
-        label: 'Pix cliente X',
-        value: '2.500,00',
+        label: 'Pix',
+        value: '2.356,00',
         date: '22/09/2023',
         type: 1, // receitas
     },
     {
         id: 3,
         label: 'Salário',
-        value: '7.500,00',
-        date: '10/09/2023',
+        value: '3.500,00',
+        date: '25/09/2023',
         type: 1, // receitas
     },
 ]
@@ -36,7 +36,7 @@ export default function Home() {
         <View style={styles.container}>
             <Header name='Pedro Lopes' />
 
-            <Balance saldo='9.250,90' gastos='-527,00' />
+            <Balance saldo='3.250,90' gastos='-527,00' />
 
             <Actions />
 
