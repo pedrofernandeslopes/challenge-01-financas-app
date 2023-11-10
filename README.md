@@ -1,6 +1,6 @@
 # Finanças App
 
-[Demonstração do Finanças App](assets/gif-app.gif)
+![Demonstração do Finanças App](assets/gif-app.gif)
 
 O aplicativo é estruturado em vários componentes, cada um responsável por renderizar uma parte da interface do usuário:
 
