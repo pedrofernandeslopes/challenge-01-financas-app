@@ -4,7 +4,7 @@ Este README descreve a estrutura e funcionalidade de um aplicativo financeiro si
 
 ## Visão Geral
 
-![Finanças App GIF](./src/assets/gif-app.gif)
+![Finanças App GIF](./assets/gif-app.gif)
 
 O aplicativo é estruturado em vários componentes, cada um responsável por renderizar uma parte da interface do usuário:
 
