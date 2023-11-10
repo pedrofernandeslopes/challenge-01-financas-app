@@ -1,9 +1,5 @@
 # Finanças App
 
-Este README descreve a estrutura e funcionalidade de um aplicativo financeiro simples em React Native construído com TypeScript. O aplicativo inclui uma tela inicial que exibe o saldo do usuário, transações recentes e botões de ação rápida.
-
-## Visão Geral
-
 ![Demonstração do Finanças App](assets/gif-app.gif)
 
 O aplicativo é estruturado em vários componentes, cada um responsável por renderizar uma parte da interface do usuário:
